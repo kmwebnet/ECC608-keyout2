@@ -1,11 +1,11 @@
 # ECC608-keyout
 
-This gets a random 32byte key from signed HKDF master key which was created [ecc608hkdfcreate](https://github.com/kmwebnet/ECC608-hkdf-create) on Jetson Nano.  
+This gets a key from master key which was stored ATECC608A slot 4 on Jetson Nano.  
 
 # Requirements
 
   install "apt install build-essential".  
-  prior to use this code, execute [ecc608hkdfcreate](https://github.com/kmwebnet/ECC608-hkdf-create).  
+  ATECC608A slot4 key preparation.  
 
 # Environment reference
   
