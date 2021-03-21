@@ -11,7 +11,7 @@ This gets a key from master key which was stored ATECC608A slot 4 on Jetson Nano
   
   Jetson Nano   
   this project initializes I2C 1 port.  
-  pin assined as below:  
+  pin assigned as below:  
 
 
       I2C 1 SDA pin3   
